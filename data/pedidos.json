@@ -1,0 +1,362 @@
+[
+  {
+    "pedido_id": "P001",
+    "user": "Ana",
+    "status": "saiu_para_entrega",
+    "itens": [
+      {
+        "nome": "Churrasco",
+        "qtd": 3
+      }
+    ],
+    "total": 60.12
+  },
+  {
+    "pedido_id": "P002",
+    "user": "Mariana",
+    "status": "saiu_para_entrega",
+    "itens": [
+      {
+        "nome": "Coxinha",
+        "qtd": 3
+      }
+    ],
+    "total": 43.84
+  },
+  {
+    "pedido_id": "P003",
+    "user": "Camila",
+    "status": "cancelado",
+    "itens": [
+      {
+        "nome": "Churrasco",
+        "qtd": 3
+      }
+    ],
+    "total": 42.12
+  },
+  {
+    "pedido_id": "P004",
+    "user": "Felipe",
+    "status": "em_transportecancelado",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 2
+      }
+    ],
+    "total": 63.54
+  },
+  {
+    "pedido_id": "P005",
+    "user": "Camila",
+    "status": "saiu_para_entrega",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 1
+      }
+    ],
+    "total": 26.69
+  },
+  {
+    "pedido_id": "P006",
+    "user": "Beatriz",
+    "status": "em_transportecancelado",
+    "itens": [
+      {
+        "nome": "X-Burguer",
+        "qtd": 2
+      }
+    ],
+    "total": 56.89
+  },
+  {
+    "pedido_id": "P007",
+    "user": "Rafael",
+    "status": "em_transportecancelado",
+    "itens": [
+      {
+        "nome": "Pastel",
+        "qtd": 3
+      }
+    ],
+    "total": 74.07
+  },
+  {
+    "pedido_id": "P008",
+    "user": "João",
+    "status": "em_transportecancelado",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 2
+      }
+    ],
+    "total": 75.28
+  },
+  {
+    "pedido_id": "P009",
+    "user": "Carlos",
+    "status": "em_transportecancelado",
+    "itens": [
+      {
+        "nome": "Lasanha",
+        "qtd": 1
+      }
+    ],
+    "total": 59.25
+  },
+  {
+    "pedido_id": "P010",
+    "user": "Beatriz",
+    "status": "reembolsado",
+    "itens": [
+      {
+        "nome": "Sushi",
+        "qtd": 3
+      }
+    ],
+    "total": 50.5
+  },
+  {
+    "pedido_id": "P011",
+    "user": "Felipe",
+    "status": "em_preparo",
+    "itens": [
+      {
+        "nome": "Pastel",
+        "qtd": 1
+      }
+    ],
+    "total": 24.83
+  },
+  {
+    "pedido_id": "P012",
+    "user": "Rafael",
+    "status": "pronto_para_entrega",
+    "itens": [
+      {
+        "nome": "Taco",
+        "qtd": 2
+      }
+    ],
+    "total": 23.12
+  },
+  {
+    "pedido_id": "P013",
+    "user": "João",
+    "status": "pronto_para_entrega",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 2
+      }
+    ],
+    "total": 69.8
+  },
+  {
+    "pedido_id": "P014",
+    "user": "Juliana",
+    "status": "entregue",
+    "itens": [
+      {
+        "nome": "X-Burguer",
+        "qtd": 3
+      }
+    ],
+    "total": 41.93
+  },
+  {
+    "pedido_id": "P015",
+    "user": "Carlos",
+    "status": "aguardando_pagamento",
+    "itens": [
+      {
+        "nome": "Coxinha",
+        "qtd": 2
+      }
+    ],
+    "total": 74.4
+  },
+  {
+    "pedido_id": "P016",
+    "user": "Carlos",
+    "status": "em_preparo",
+    "itens": [
+      {
+        "nome": "Coxinha",
+        "qtd": 2
+      }
+    ],
+    "total": 54.27
+  },
+  {
+    "pedido_id": "P017",
+    "user": "Mariana",
+    "status": "saiu_para_entrega",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 2
+      }
+    ],
+    "total": 61.63
+  },
+  {
+    "pedido_id": "P018",
+    "user": "Rafael",
+    "status": "aguardando_pagamento",
+    "itens": [
+      {
+        "nome": "Taco",
+        "qtd": 1
+      }
+    ],
+    "total": 43.47
+  },
+  {
+    "pedido_id": "P019",
+    "user": "Camila",
+    "status": "saiu_para_entrega",
+    "itens": [
+      {
+        "nome": "Hambúrguer Vegano",
+        "qtd": 3
+      }
+    ],
+    "total": 35.58
+  },
+  {
+    "pedido_id": "P020",
+    "user": "Mariana",
+    "status": "entregue",
+    "itens": [
+      {
+        "nome": "Churrasco",
+        "qtd": 3
+      }
+    ],
+    "total": 40.83
+  },
+  {
+    "pedido_id": "P021",
+    "user": "Beatriz",
+    "status": "entregue",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 3
+      }
+    ],
+    "total": 57.02
+  },
+  {
+    "pedido_id": "P022",
+    "user": "Ana",
+    "status": "aguardando_pagamento",
+    "itens": [
+      {
+        "nome": "Sushi",
+        "qtd": 2
+      }
+    ],
+    "total": 37.16
+  },
+  {
+    "pedido_id": "P023",
+    "user": "Mariana",
+    "status": "em_preparo",
+    "itens": [
+      {
+        "nome": "Pizza",
+        "qtd": 1
+      }
+    ],
+    "total": 55.3
+  },
+  {
+    "pedido_id": "P024",
+    "user": "Beatriz",
+    "status": "aguardando_pagamento",
+    "itens": [
+      {
+        "nome": "Coxinha",
+        "qtd": 3
+      }
+    ],
+    "total": 51.68
+  },
+  {
+    "pedido_id": "P025",
+    "user": "Juliana",
+    "status": "entregue",
+    "itens": [
+      {
+        "nome": "Pastel",
+        "qtd": 3
+      }
+    ],
+    "total": 33.53
+  },
+  {
+    "pedido_id": "P026",
+    "user": "Felipe",
+    "status": "em_preparo",
+    "itens": [
+      {
+        "nome": "Lasanha",
+        "qtd": 2
+      }
+    ],
+    "total": 40.81
+  },
+  {
+    "pedido_id": "P027",
+    "user": "Carlos",
+    "status": "reembolsado",
+    "itens": [
+      {
+        "nome": "Hambúrguer Vegano",
+        "qtd": 2
+      }
+    ],
+    "total": 69.01
+  },
+  {
+    "pedido_id": "P028",
+    "user": "Carlos",
+    "status": "entregue",
+    "itens": [
+      {
+        "nome": "Churrasco",
+        "qtd": 3
+      }
+    ],
+    "total": 73.84
+  },
+  {
+    "pedido_id": "P029",
+    "user": "Carlos",
+    "status": "entregue",
+    "itens": [
+      {
+        "nome": "Salada",
+        "qtd": 2
+      }
+    ],
+    "total": 52.88
+  },
+  {
+    "pedido_id": "P030",
+    "user": "Rafael",
+    "status": "saiu_para_entrega",
+    "itens": [
+      {
+        "nome": "Churrasco",
+        "qtd": 1
+      }
+    ],
+    "total": 32.63
+  }
+]

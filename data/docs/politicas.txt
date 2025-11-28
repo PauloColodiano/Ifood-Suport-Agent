@@ -1,0 +1,3 @@
+Pedidos só podem ser cancelados antes de serem preparados pelo restaurante. 
+Após o início do preparo, o cancelamento depende da política interna do restaurante.
+Pedidos já entregues não podem ser cancelados.

@@ -1,0 +1,18 @@
+# Arquivos sensíveis
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Chroma DB
+data/chroma/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
